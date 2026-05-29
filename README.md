@@ -88,7 +88,8 @@ Streamlit 대시보드는 다음 정보를 제공합니다.
 
 ---
 
-대시보드 스크린샷
+## 🖥️ Dashboard Preview
+
 ![Dashboard Preview](assets/dashboard_preview.png)
 
 
