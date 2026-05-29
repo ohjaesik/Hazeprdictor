@@ -88,9 +88,9 @@ Streamlit 대시보드는 다음 정보를 제공합니다.
 
 대시보드 스크린샷을 추가할 경우 아래 경로를 사용할 수 있습니다.
 
-```markdown
+
 ![Dashboard Preview](assets/dashboard_preview.png)
-```
+
 
 ---
 
